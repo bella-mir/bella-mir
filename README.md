@@ -6,7 +6,7 @@
 
 - 💻: I’m actively developing skills in frontend and backend to be able to build fully functional web applications
 
-- 🤓: Currently studying with Practicum’s Software Engineer bootcamp by Yandex (7th month out of 10)
+- 🤓: Currently studying with Practicum’s Software Engineer Bootcamp by Yandex (7th month out of 10)
 
 - 🌐: Working as a GIS and Urban Data analyst 
 
