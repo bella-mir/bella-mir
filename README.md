@@ -8,7 +8,7 @@
 
 - 🤓: Currently studying with Practicum’s Software Engineer bootcamp by Yandex (7th month out of 10)
 
-- 🌐: Currently working as a GIS and Urban Data analyst 
+- 🌐: Working as a GIS and Urban Data analyst 
 
 - 🏃‍♀️: In my free time, I like playing volleyball and running 
 
