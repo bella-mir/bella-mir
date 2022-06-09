@@ -1,4 +1,3 @@
-
 ### Hi there 👋 I'm Bella 
 
 ---
@@ -7,12 +6,14 @@
 
 - 💻: I’m actively developing skills in frontend and backend to be able to build fully functional web applications
 
+- 🤓: Currently studying with Practicum’s Software Engineer bootcamp by Yandex (7th month out of 10)
+
 - 🌐: Currently working as a GIS and Urban Data analyst 
 
 - 🏃‍♀️: In my free time, I like playing volleyball and running 
 
-- 🗣️: I speak Russian, English and German
-
+- 🗣️: I speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German  
+ 
 - 📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/)
 
 ---
