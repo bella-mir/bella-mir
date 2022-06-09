@@ -1,20 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-### Hi there 👋 I'm Bella
+### Hi there 👋 I'm Bella 
 
 ---
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 💻: I’m actively developing skills in frontend and backend to be able to build fully functional web applications
 
-- :seedling: Exploring Technical Content Writing.
+- 🌐: Currently working as a GIS and Urban Data analyst 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🏃‍♀️: In my free time, I like playing volleyball and running 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/)
+- 🗣️: I speak Russian, English and German
+
+- 📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/)
 
 ---
 
