@@ -20,11 +20,11 @@
 
 ### My recent projects:
 
-[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-IndigenousPeoplesQuiz-success)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
-[![Russian Regions Geo-Quiz](https://img.shields.io/badge/-RussianRegionsQuiz-success)](https://belka-mironova.github.io/geo-quiz/)
-[![Mesto](https://img.shields.io/badge/-Mesto-success)](https://belka-mironova.github.io/mesto/)
-[![Russian_travel](https://img.shields.io/badge/-RussianTravel-success)](https://belka-mironova.github.io/russian-travel/)
-[![How_to_learn](https://img.shields.io/badge/-HowToLearn-success)](https://belka-mironova.github.io/how-to-learn/)
+[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-IndigenousPeoplesQuiz-orange)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
+[![Russian Regions Geo-Quiz](https://img.shields.io/badge/-RussianRegionsQuiz-orange)](https://belka-mironova.github.io/geo-quiz/)
+[![Mesto](https://img.shields.io/badge/-Mesto-orange)](https://belka-mironova.github.io/mesto/)
+[![Russian_travel](https://img.shields.io/badge/-RussianTravel-orange)](https://belka-mironova.github.io/russian-travel/)
+[![How_to_learn](https://img.shields.io/badge/-HowToLearn-orange)](https://belka-mironova.github.io/how-to-learn/)
 
 ---
 
