@@ -20,7 +20,7 @@
 
 ### My recent projects:
 
-[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-Indigenous-Peoples-Quiz-141130?style=for-the-badge)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
+[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-IndigenousPeoples-orange)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
 [![Russian Regions Geo-Quiz](https://img.shields.io/badge/-Regions-Quiz-141130?style=for-the-badge)](https://belka-mironova.github.io/geo-quiz/)
 [![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://belka-mironova.github.io/mesto/)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://belka-mironova.github.io/russian-travel/)
