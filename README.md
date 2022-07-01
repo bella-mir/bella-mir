@@ -18,6 +18,16 @@
 
 ---
 
+### My recent projects:
+
+[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-Indigenous-Peoples-Quiz-141130?style=for-the-badge)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
+[![Russian Regions Geo-Quiz](https://img.shields.io/badge/-Regions-Quiz-141130?style=for-the-badge)](https://belka-mironova.github.io/geo-quiz/)
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://belka-mironova.github.io/mesto/)
+[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://belka-mironova.github.io/russian-travel/)
+[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://belka-mironova.github.io/how-to-learn/)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
