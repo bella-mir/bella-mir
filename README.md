@@ -8,11 +8,11 @@
 
 - 🤓: Currently studying at Practicum’s Software Engineer Bootcamp by Yandex (10th month out of 10)
 
-- 🌐: Work as a GIS and Urban Data analyst 
+- 🌐: GIS and Urban Data analyst 
 
 - 🏃‍♀️: In my free time, I like playing volleyball and running 
 
-- 🗣️: I speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German  
+- 🗣️: Speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German  
  
 - 📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellamironova@gmail.com) 
 
