@@ -50,7 +50,6 @@
 ---
 
 <details>
-
 <summary> <h3>:fire: My Stats :</h3></summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belka-mironova)](https://git.io/streak-stats)
@@ -61,4 +60,3 @@
 
 <!--
 **belka-mironova/belka-mironova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
