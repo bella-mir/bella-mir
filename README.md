@@ -16,18 +16,6 @@
  
 - 📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellamironova@gmail.com) 
 
-
----
-
-### My recent projects:
-
-[![Indigenous Peoples Geo-Quiz](https://img.shields.io/badge/-IndigenousPeoplesQuiz-orange)](https://belka-mironova.github.io/IndigenousPeoplesRussia/)
-[![Russian Regions Geo-Quiz](https://img.shields.io/badge/-RussianRegionsQuiz-orange)](https://belka-mironova.github.io/geo-quiz/)
-[![Geo-quizzes](https://img.shields.io/badge/-GeoQuizzes-orange)](https://belka-mironova.github.io/geo-quizzes/)
-[![Mesto](https://img.shields.io/badge/-Mesto-orange)](https://belka-mironova.github.io/mesto/)
-[![Russian_travel](https://img.shields.io/badge/-RussianTravel-orange)](https://belka-mironova.github.io/russian-travel/)
-[![How_to_learn](https://img.shields.io/badge/-HowToLearn-orange)](https://belka-mironova.github.io/how-to-learn/)
-
 ---
 
 ### 💻 Tech Stack :
@@ -57,7 +45,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
 </div>
-
 
 
 ---
