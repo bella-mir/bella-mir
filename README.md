@@ -4,9 +4,9 @@
 
 ### :woman_technologist: About Me :
 
-- 💻: I actively develop new skills in frontend and backend to be able to build fully functional web applications
+- 💻: Actively develop new skills in frontend and backend to be able to build fully functional web applications
 
-- 🤓: I've finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022)
+- 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022)
 
 - 🌐: GIS and Urban Data analyst 
 
