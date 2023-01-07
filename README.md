@@ -8,6 +8,8 @@
 
 - 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022)
 
+- ✨: Currently studing at Practicum’s React Bootcamp by Yandex 
+
 - 🌐: GIS and Urban Data analyst 
 
 - 🏃‍♀️: In my free time, I like playing volleyball and running 
