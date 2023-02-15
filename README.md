@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-- 💻: Actively develop new skills in frontend and backend to be able to build fully functional web applications
+- 💻: Improve skills in frontend and backend to be able to build fully functional web applications
 
 - 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022)
 
