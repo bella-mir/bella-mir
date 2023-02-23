@@ -4,13 +4,13 @@
 
 ### :woman_technologist: About Me :
 
-- 💻: Improve skills in frontend and backend to be able to build fully functional web applications
+- 🌐: GIS and Urban Data analyst  // Web-GIS developer
+
+- 💻: Constantly improve skills in frontend and backend to be able to build fully functional web applications
 
 - 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022)
 
 - ✨: Currently studing at Practicum’s React Bootcamp by Yandex 
-
-- 🌐: GIS and Urban Data analyst 
 
 - 🏃‍♀️: In my free time, I like playing volleyball and running 
 
