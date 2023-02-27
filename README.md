@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🌐: GIS and Urban Data analyst  // Web-GIS developer
+- 🌐: Urban Data analyst // Web-GIS developer
 
 - 💻: Constantly improve skills in frontend and backend to be able to build fully functional web applications
 
