@@ -6,9 +6,9 @@
 
 - 🌐: Urban Data analyst // Web-GIS developer
 
-- ✨: Constantly improve skills in web-development to build fully functional web(gis) applications
+- ✨: Constantly improve skills in web-development to build fully functional web(GIS) applications
 
-- 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (October 2022) and studing at Practicum’s React Bootcamp 
+- 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (10/2022) and studing at Practicum’s React Bootcamp 
 
 - 🏃‍♀️: I love play volleyball and chess
 
