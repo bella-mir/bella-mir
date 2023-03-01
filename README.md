@@ -2,17 +2,17 @@
 
 ---
 
-- 🌐: Urban Data analyst // Web-GIS developer
+🌐: Urban Data analyst // Web-GIS developer
 
-- ✨: Constantly improve skills in web-development to build fully functional web(GIS) applications
+✨: Constantly improve skills in web-development to build fully functional web(GIS) applications
 
-- 🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (10/2022) and studing at Practicum’s React Bootcamp 
+🤓: Finished Practicum’s Software Engineering Bootcamp by Yandex (10/2022) and studing at Practicum’s React Bootcamp 
 
-- 🏃‍♀️: I love play volleyball and chess
+🏃‍♀️: I love play volleyball and chess
 
-- 🗣️: Speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German  
+🗣️: Speak 🇷🇺 Russian, 🇺🇸 English and 🇩🇪 German  
  
-- 📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellamironova@gmail.com) 
+📩: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bella-mironova-64b01a222/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellamironova@gmail.com) 
 
 ---
 
