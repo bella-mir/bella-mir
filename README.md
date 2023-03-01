@@ -2,7 +2,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About :
 
 - 🌐: Urban Data analyst // Web-GIS developer
 
