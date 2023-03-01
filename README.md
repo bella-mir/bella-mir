@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Bella!
+### Hi there 👋 I'm Bella!:woman_technologist:
 
 ---
-
-### :woman_technologist:
 
 - 🌐: Urban Data analyst // Web-GIS developer
 
