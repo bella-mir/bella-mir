@@ -6,7 +6,7 @@
 
 ✨: Constantly improve skills in web-development to build fully functional web(GIS) applications
 
-🤓: Finished Practicum’s Software Engineering Bootcamp (10/2022) and React Bootcamp (03/2023) by Yandex
+🤓: Finished Practicum’s Software Engineering Bootcamp(10/22) and React Bootcamp(03/23) by Yandex
 
 🏃‍♀️: I love play volleyball and chess
 
