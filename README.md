@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bella!:woman_technologist:
+### Hi there 👋 I'm Bella!
 
 ---
 
